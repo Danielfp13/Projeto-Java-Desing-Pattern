@@ -1,4 +1,4 @@
-package gof;
+package gof.singleton;
 
 public class SingletonEager {
     private static  SingletonEager instance = new SingletonEager();

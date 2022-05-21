@@ -1,5 +1,9 @@
 package gof;
 
+import gof.singleton.SingletonEager;
+import gof.singleton.SingletonLazy;
+import gof.singleton.SingletonLazyHolder;
+
 public class Main {
     public static void main(String[] args) {
         //Teste Realacionado ao Desing Pattern Singleton
