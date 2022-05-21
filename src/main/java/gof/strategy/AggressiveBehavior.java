@@ -1,0 +1,9 @@
+package gof.strategy;
+
+public class AggressiveBehavior implements Behavior {
+    
+    @Override
+    public void toMove() {
+        System.out.println("moving aggressively");
+    }
+}
