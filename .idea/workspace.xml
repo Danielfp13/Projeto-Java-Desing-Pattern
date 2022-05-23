@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71c003fe-96f8-4454-b0e1-01bd3d16ed0d" name="Changes" comment="Criando classe de comportamento defencivo">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gof/strategy/AggressiveBehavior.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/gof/strategy/Robo.java" afterDir="false" />
+    <list default="true" id="71c003fe-96f8-4454-b0e1-01bd3d16ed0d" name="Changes" comment="Testando Desing Pattern Strategy">
+      <change afterPath="$PROJECT_DIR$/src/main/java/gof/facade/Facade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsystem1/crm/CrmService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/subsystem2/zipcode/ZipCodeApi.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/gof/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/gof/Main.java" afterDir="false" />
     </list>
@@ -56,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="subsystem2.zipcode" />
       <recent name="gof.strategy" />
       <recent name="gof" />
     </key>
@@ -166,7 +167,28 @@
       <option name="project" value="LOCAL" />
       <updated>1653176187271</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Criando classe d">
+      <created>1653176397347</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1653176397347</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Criando classe do rob">
+      <created>1653176424274</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653176424274</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Testando Desing Pattern Strategy">
+      <created>1653176464567</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653176464567</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -199,7 +221,10 @@
     <MESSAGE value="Criando pacote singleton" />
     <MESSAGE value="Criando interface comportamento para o desing pattern strategy" />
     <MESSAGE value="Criando classe de comportamento comum" />
-    <MESSAGE value="Criando classe de comportamento defencivo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Criando classe de comportamento defencivo" />
+    <MESSAGE value="Criando classe de comportamento defensivo" />
+    <MESSAGE value="Criando classe de comportamento agresivo" />
+    <MESSAGE value="Criando classe do robo" />
+    <MESSAGE value="Testando Desing Pattern Strategy" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testando Desing Pattern Strategy" />
   </component>
 </project>
